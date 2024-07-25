@@ -1,7 +1,6 @@
 # Go Backend Portfolio
 
-Bem-vindo ao meu portfólio de projetos backend desenvolvidos em Go. Aqui você encontrará uma coleção de projetos que demonstram minhas habilidades e experiência com desenvolvimento backend.
-
+Bem-vindo ao meu portfólio de projetos backend desenvolvidos em Go. 
 ## Projetos
 
 1. [Projeto 1: API Product](https://github.com/otaviobelfort/product-service)
